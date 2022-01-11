@@ -60,6 +60,30 @@
         "EUR": 600,
         "NTC": 90000
       }
+    },
+    {
+      "created_at": "2022-01-11T18:01:39.548Z",
+      "login": "slavikkrut080800@gmail.com",
+      "password": "05038",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-01-11T18:09:32.478Z",
+      "login": "slavik@gmail.com",
+      "password": "sluvad888",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
     }
   ],
   "favorites": {
@@ -78,6 +102,10 @@
       "1": "Важный пацан",
       "3": "Дедуля",
       "4": "Галя"
+    },
+    "6": {
+      "1": "слава",
+      "2": "витя"
     }
   }
 }
